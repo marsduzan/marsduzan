@@ -15,13 +15,13 @@
 
 <p>
   💻 Specialized in cross-platform development, with a strong focus on mobile applications.
-  <br><br>
+ 
   📖 Solid foundation in software development principles and clean code practices.
-  <br><br>
+
   🗣️ Strong soft skills: communication, adaptability, and teamwork.
-  <br><br>
+  
   🚀 Highly motivated, proactive, and committed to continuous learning.
-  <br><br>
+
   🤝 Open to collaboration and new opportunities to grow as a developer.
 </p>
 
