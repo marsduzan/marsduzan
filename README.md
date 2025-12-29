@@ -8,11 +8,10 @@
 
 <div size='20px'> I'm a cross-platform developer specialized in mobile development. Highly motivated, constantly learning, and focused on building functional and scalable solutions. Thank you for visiting my GitHub 📲
 </div>
-
+<h2>About Me 👤</h2>
 <table>
   <tr>
     <td width="60%">
-      <h2>About Me 👤</h2>
       <ul>
         <li>💻 Specialized in cross-platform development, with a strong focus on mobile applications</li>
         <li>📖 Solid foundation in software development principles and clean code practices</li>
