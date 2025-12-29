@@ -8,23 +8,24 @@
 
 <div size='20px'> I'm a cross-platform developer specialized in mobile development. Highly motivated, constantly learning, and focused on building functional and scalable solutions. Thank you for visiting my GitHub 📲
 </div>
+
 <h2>About Me 👤</h2>
-<table>
-  <tr>
-    <td width="60%">
-      <ul>
-        <li>💻 Specialized in cross-platform development, with a strong focus on mobile applications</li>
-        <li>📖 Solid foundation in software development principles and clean code practices</li>
-        <li>🗣️ Strong soft skills: communication, adaptability, and teamwork</li>
-        <li>📈 Highly motivated, proactive, and committed to continuous learning</li>
-        <li>⛓️ Open to collaboration and new opportunities to grow as a developer</li>
-      </ul>
-    </td>
-    <td width="40%">
-      <img src="https://github.com/marsduzan/marsduzan/blob/main/unnamed.jpg?raw=true" width="100%" alt="Developer Illustration">
-    </td>
-  </tr>
-</table>
+
+<img align="right" width="350px" src="https://github.com/marsduzan/marsduzan/blob/main/unnamed.jpg?raw=true" alt="Developer Personaje">
+
+<p>
+  💻 Specialized in cross-platform development, with a strong focus on mobile applications.
+  <br><br>
+  📖 Solid foundation in software development principles and clean code practices.
+  <br><br>
+  🗣️ Strong soft skills: communication, adaptability, and teamwork.
+  <br><br>
+  🚀 Highly motivated, proactive, and committed to continuous learning.
+  <br><br>
+  🤝 Open to collaboration and new opportunities to grow as a developer.
+</p>
+
+<br clear="all">
 
 <h2> Skills 💡 </h2>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
