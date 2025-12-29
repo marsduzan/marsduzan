@@ -11,7 +11,7 @@
 
 <h2> About Me 👤 </h2>
 
-<img width="50%" height="500" align="right" alt="Github" src="https://github.com/marsduzan/marsduzan/blob/main/unnamed.jpg?raw=true" />
+<img width="50%" height="700px" align="right" alt="Github" src="https://github.com/marsduzan/marsduzan/blob/main/unnamed.jpg?raw=true" />
 
  💻 Specialized in cross-platform development, with a strong focus on mobile applications
 
