@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="500" src="https://github.com/marsduzan/marsduzan/blob/main/code.jpg?raw=true">
+    <img width="1000" src="https://github.com/marsduzan/marsduzan/blob/main/code.jpg?raw=true">
 </p>
 
 <h1> print('Hi There!') <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
