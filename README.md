@@ -47,11 +47,5 @@
 </a>
 &nbsp;
 <a href='mailto:marscpwork@gmail.com'>
-  <img width='32px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gmail.svg"/>
+  <img align='center' src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<br><br>
-
-| ![Mars's github stats](https://github-readme-stats.vercel.app/api?username=marsduzan&show_icons=true&theme=tokyonight) | ![Mars GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marsduzan&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marsduzan&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=marsduzan&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
