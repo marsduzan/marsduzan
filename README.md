@@ -45,7 +45,6 @@
 <a href='https://www.linkedin.com/in/mar%C3%A7al-camps-p%C3%A9rez-019521378/'>
   <img width='32px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
 </a>
-&nbsp;
 <a href='mailto:marscpwork@gmail.com'>
-  <img align='center' src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img width='32px' align='center' src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/>
 </a>
