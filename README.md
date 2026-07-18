@@ -40,19 +40,20 @@
   </tr>
 </table>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 <table>
   <tr>
     <td>
-      <a href='https://www.linkedin.com/in/mar%C3%A7al-camps-p%C3%A9rez-019521378/'>
+      <a href='https://www.linkedin.com/in/mar%C3%A7al-camps-p%C3%A9rez-019521378/' target='_blank'>
         <img width='40px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
       </a>
     </td>
     <td>
-      <a href='mailto:marscpwork@gmail.com'>
-        <img width='40px' src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/>
-      </a>
+      <img width='40px' src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"/>
+    </td>
+    <td>
+      <span>marscpwork@gmail.com</span>
     </td>
   </tr>
 </table>
