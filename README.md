@@ -9,21 +9,22 @@
 
 <h2>About Me 👤</h2>
 
-<img align="right" width="350px" src="https://github.com/marsduzan/marsduzan/blob/main/unnamed.jpg?raw=true" alt="Developer Personaje">
-
-<p>
-  💻 Specialized in cross-platform development, with a strong focus on mobile applications.
- 
-  📖 Solid foundation in software development principles and clean code practices.
-
-  🗣️ Strong soft skills: communication, adaptability, and teamwork.
-  
-  🚀 Highly motivated, proactive, and committed to continuous learning.
-
-  🤝 Open to collaboration and new opportunities to grow as a developer.
-</p>
-
-<br clear="all">
+<table>
+  <tr>
+    <td width="60%">
+      <p>
+        💻 Specialized in cross-platform development, with a strong focus on mobile applications.<br><br>
+        📖 Solid foundation in software development principles and clean code practices.<br><br>
+        🗣️ Strong soft skills: communication, adaptability, and teamwork.<br><br>
+        🚀 Highly motivated, proactive, and committed to continuous learning.<br><br>
+        🤝 Open to collaboration and new opportunities to grow as a developer.
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <img width="100%" src="https://github.com/marsduzan/marsduzan/blob/main/unnamed.jpg?raw=true" alt="Developer Personaje">
+    </td>
+  </tr>
+</table>
 
 <h2> Skills 💡 </h2>
 
@@ -35,8 +36,7 @@
     <td><img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'></td>
     <td><img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'></td>
     <td><img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'></td>
-    <td><img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'></td>
-    <td><img width='40px' src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'></td>
+    <td><img width='40px' src='https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white'></td>
   </tr>
 </table>
 
@@ -45,4 +45,13 @@
 <a href='https://www.linkedin.com/in/mar%C3%A7al-camps-p%C3%A9rez-019521378/'>
   <img width='32px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
 </a>
+&nbsp;
+<a href='mailto:marscpwork@gmail.com'>
+  <img width='32px' align='center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gmail.svg"/>
+</a>
 
+<br><br>
+
+| ![Mars's github stats](https://github-readme-stats.vercel.app/api?username=marsduzan&show_icons=true&theme=tokyonight) | ![Mars GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marsduzan&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marsduzan&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=marsduzan&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
